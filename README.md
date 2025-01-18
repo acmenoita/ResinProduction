@@ -1,2 +1,0 @@
-# ResinProduction
-IntPy
